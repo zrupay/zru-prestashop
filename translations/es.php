@@ -1,0 +1,33 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{zru}prestashop>zru_cbbecf8f60226890a5e5303be4f2dd60'] = 'Zru';
+$_MODULE['<{zru}prestashop>zru_d85935741c30edaa6611a29e712fa843'] = 'Permite recibir pagos desde distintas pasarelas';
+$_MODULE['<{zru}prestashop>zru_69a1a3ad8dd5da6db3c4da838a0cf9c7'] = '¿Estás seguro de que deseas eliminar la información de Zru?';
+$_MODULE['<{zru}prestashop>zru_39e1cbd5b952dc0809e7cf23c4b293e2'] = 'La configuración del módulo está incompleta.';
+$_MODULE['<{zru}prestashop>zru_4f92d1fec3301d608b64dff87af8887a'] = 'El campo "Key" es obligatorio.';
+$_MODULE['<{zru}prestashop>zru_ff048bde26280b2525eac860b2ce6ace'] = 'El campo "Secret Key" es obligatorio.';
+$_MODULE['<{zru}prestashop>zru_2df1b1af23e64ebf72d807be87f18f75'] = 'El campo "Título" es obligatorio.';
+$_MODULE['<{zru}prestashop>zru_59733a3ebdb05da512c4bfa4085da02e'] = 'El campo "Descripción" es obligatorio.';
+$_MODULE['<{zru}prestashop>zru_c888438d14855d7d96a2724ee9c306bd'] = 'Configuración actualizada';
+$_MODULE['<{zru}prestashop>zru_5b8727421a4de2b64fc3a1c72bce9154'] = 'Configuración de Zru';
+$_MODULE['<{zru}prestashop>zru_e84c23f5af8f4f947c99c9d583217086'] = 'Para usar Zru necesitas una cuenta de cliente. Consigue las credenciales de tu aplicación en zrupay.com.';
+$_MODULE['<{zru}prestashop>zru_897356954c2cd3d41b221e3f24f99bba'] = 'Key';
+$_MODULE['<{zru}prestashop>zru_5eb6bb157528b365f84c27bb4784031b'] = 'Secret Key';
+$_MODULE['<{zru}prestashop>zru_b78a3223503896721cca1303f776159b'] = 'Título';
+$_MODULE['<{zru}prestashop>zru_2430e97c5daa6641971ec194c802dac4'] = 'Nombre de la opción de pago que se muestra en el proceso de compra.';
+$_MODULE['<{zru}prestashop>zru_b5a7adde1af5c87d7fd797b6245c2a39'] = 'Descripción';
+$_MODULE['<{zru}prestashop>zru_8c50ec33d8073a827e6c3bcd20125d8b'] = 'Descripción de la opción de pago que se muestra en el proceso de compra.';
+$_MODULE['<{zru}prestashop>zru_be53a0541a6d36f6ecb879fa2c584b08'] = 'Imagen';
+$_MODULE['<{zru}prestashop>zru_41719667cb2c8d992159cbf1966906cd'] = 'URL de una imagen que se muestra junto a la opción de pago (opcional).';
+$_MODULE['<{zru}prestashop>zru_d7746aa6b562c73487a4015eef3244e9'] = 'IFrame';
+$_MODULE['<{zru}prestashop>zru_ca5978b093b9434e7ae1dd1d8ebc4b16'] = 'Muestra la página de pago dentro de la tienda en lugar de redirigir a Zru.';
+$_MODULE['<{zru}prestashop>zru_00d23a76e43b46dae9ec7aa9dcbebb32'] = 'Activado';
+$_MODULE['<{zru}prestashop>zru_b9f5c797ebbf55adccdd8539a65a0241'] = 'Desactivado';
+$_MODULE['<{zru}prestashop>zru_c9cc8cce247e49bae79f15173ce97354'] = 'Guardar';
+$_MODULE['<{zru}prestashop>payment_4377211247d98ae37dd21a69ced0a09b'] = 'Se ha producido un error al procesar el pago. Por favor, inténtalo de nuevo o elige otro método de pago.';
+$_MODULE['<{zru}prestashop>payment_484f5a79672cebe198ebdde45a1d672f'] = 'Envoltorio de regalo';
+$_MODULE['<{zru}prestashop>payment_return_2e2117b7c81aa9ea6931641ea2c6499f'] = 'Su pedido en';
+$_MODULE['<{zru}prestashop>payment_return_75fbf512d744977d62599cc3f0ae2bb4'] = 'está completado.';
+$_MODULE['<{zru}prestashop>payment_return_cfa0f5d192620d230ccbf3664d9d0610'] = 'El importe total del pedido es';

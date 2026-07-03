@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>zru</name>
+	<displayName><![CDATA[Zru]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Allows to receive payments from several payment gateways]]></description>
+	<author><![CDATA[Zru]]></author>
+	<tab><![CDATA[payments_gateways]]></tab>
+	<is_configurable>1</is_configurable>
+</module>
